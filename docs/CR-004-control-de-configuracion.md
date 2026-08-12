@@ -109,9 +109,9 @@ Registrado --> En análisis --> Aprobado --> En implementación --> Verificado -
 
 | CR | Artefacto | Evidencia |
 |---|---|---|
-| CR-004-SEM4-CUENCA-NIXON | Requisito / Historia | Issue de GitHub "CR-004: Lote y fecha de caducidad en perecibles" |
+| CR-004-SEM4-CUENCA-NIXON | Requisito / Historia | Issue **#1** — https://github.com/ncuenca84/tarea4_sistema_invetario/issues/1 |
 | CR-004-SEM4-CUENCA-NIXON | Diseño | Modelo `Producto` en `src/inventario/modelos.py` |
-| CR-004-SEM4-CUENCA-NIXON | Código | Commits del PR: `modelos.py`, `inventario.py`, `reportes.py`, `exportacion.py` |
+| CR-004-SEM4-CUENCA-NIXON | Código | Commit `d9a9a77`: `modelos.py`, `inventario.py`, `reportes.py`, `exportacion.py` |
 | CR-004-SEM4-CUENCA-NIXON | Pruebas | `tests/test_inventario.py` — 8 casos, resultado **8 passed** |
 | CR-004-SEM4-CUENCA-NIXON | Release | Tag `v1.1.0` + notas de versión (`CHANGELOG.md`) |
 
